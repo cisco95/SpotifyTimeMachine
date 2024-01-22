@@ -6,6 +6,7 @@ import spotipy
 import base64
 import json
 import os
+import keys
 
 CLI_ID = os.environ['CLIENT_ID']
 CLI_SECRET = os.environ['CLIENT_SECRET']
